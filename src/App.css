@@ -81,3 +81,11 @@
 .content.shifted {
   margin-left: 250px;
 }
+
+.ProductDetailsPage {
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 85vh;
+}
